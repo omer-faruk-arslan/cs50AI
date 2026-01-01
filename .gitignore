@@ -2,6 +2,9 @@
 venv/
 .env
 
+#test
+learning/
+
 # Python cache
 __pycache__/
 *.pyc
